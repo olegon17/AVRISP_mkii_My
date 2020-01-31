@@ -1,0 +1,19 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~_AVRISP mkii.PrjPCB|ReportField=ProjectFullPath~C:\Users\Morozov\Downloads\AVRISP mkii My\_AVRISP mkii.PrjPCB|ReportField=Title~Bill of Materials For Project [_AVRISP mkii.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~29|ReportField=ReportTime~23:02:47|ReportField=ReportDate~06.10.2019|ReportField=ReportDateTime~06.10.2019 23:02:47|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Andrew Danich|ReportField=CheckedBy~Andrew Danich|ReportField=CompanyName~|ReportField=CurrentDate~06.10.2019|ReportField=CurrentTime~13:50:36|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Morozov\Downloads\AVRISP mkii My\scheme-mkii.SchDoc|ReportField=DocumentName~scheme-mkii.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~Andrew Danich|ReportField=Engineer~Andrew Danich|ReportField=ImagePath~|ReportField=ModifiedDate~06.10.2019|ReportField=Organization~Andrew Danich|ReportField=ProjectName~_AVRISP mkii.PrjPCB|ReportField=Revision~1|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~1|ReportField=Time~|ReportField=Title~AVRISP MKII mini|ReportField=DataSourceFileName~_AVRISP mkii.PrjPCB|ReportField=DataSourceFullPath~C:\Users\Morozov\Downloads\AVRISP mkii My\_AVRISP mkii.PrjPCB|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Ceramic capacitor, 22pF, X7R, ±10%, 16V, 0805, -55...+125°C||C1, C2|CAP: 0805|Ceramic_0805|2
+2|Ceramic capacitor, 10μF, X7R, ±10%, 16V, 0805, -55...+125°C||C3, C5|CAP: 0805|Ceramic_0805|2
+3|Ceramic capacitor, 0.01μF, X7R, ±10%, 16V, 0805, -55...+125°C||C4|CAP: 0805|Ceramic_0805|1
+4|Ceramic capacitor, 0.1μF, X7R, ±10%, 16V, 0805, -55...+125°C||C6, C7|CAP: 0805|Ceramic_0805|2
+5|1-1470156-1|USB 1.1, Right Angle, Thru-Hole, B Type, Receptacle, 4 Position, White|J1|1-1470156|1-1470156-1|1
+6|Resistor film, 10kR, ±5%, 0402, 0.063W, -55...+125°C||R1, R2|RES: 0402|Resistor_0402|2
+7|Resistor film, 1kR, ±5%, 0402, 0.063W, -55...+125°C||R3, R4|RES: 0402|Resistor_0402|2
+8|Resistor film, 27R, ±5%, 0402, 0.063W, -55...+125°C||R5, R6|RES: 0402|Resistor_0402|2
+9|Resistor film, 47R, ±5%, 0402, 0.063W, -55...+125°C||R7, R8|RES: 0402|Resistor_0402|2
+10|Resistor film, 1R, ±5%, 0402, 0.063W, -55...+125°C||R9|RES: 0402|Resistor_0402|1
+11|Resistor film, 100R, ±5%, 0402, 0.063W, -55...+125°C||R10|RES: 0402|Resistor_0402|1
+12|90USB162-16AU|8-bit AVR Microcontroller, 2.7-5.5V, 16KB Flash, 512 Bytes EEPROM, 512 Bytes SRAM, USB Controller, 32-pin TQFP, Industrial Grade (-40°C to 85°C)|U1|32MA_N|90USB162-16AU|1
+13|LED, *, *, *, -55...+150°C||VD1, VD2|LED: 0402B|LED_single|2
+14|Connector, 6pin, 2.54mm, 250VAC, 3A||X1, X2|CON: IDC-6MS|IDC-6|2
+15|Connector, 10pin, 2.54mm, 250VAC, 3A||X3|CON: IDC-10MS|IDC-10|1
+16|Connector, 2pin, 2.54mm, 500VAC, 3A||X4, X6, X7|CON: PLS-2|PLS-2|3
+17|Connector, 2pin, 2.54mm, 500VAC, 3A||X5|CON: PLS-1|PLS-1|1
+18|16MHz|Crystal Oscillator|Y1|HC-49U|ECS-10-13-1|1
